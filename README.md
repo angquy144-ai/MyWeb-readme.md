@@ -89,6 +89,8 @@ Qua project này, mình học được:
 Nếu bạn muốn góp ý hoặc trao đổi, hãy liên hệ với mình.
 
 ---
+Và công cụ mình dùng để vẽ ra khung web đó là figma 
+<img width="1600" height="860" alt="Home – Figma - Thorium 5_6_2026 9_19_11 AM" src="https://github.com/user-attachments/assets/a312d096-d991-4fb6-8ee0-8b77ce9d3f1d" />
+
 
 ✨ Cảm ơn bạn đã ghé thăm project của mình!
-![Uploading Screenshot_29-4-2026_8395_www.figma.com.jpeg…]()
