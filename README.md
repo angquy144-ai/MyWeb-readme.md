@@ -226,6 +226,28 @@ Thiết kế phù hợp cho:
 Website công nghệ
 Website giới thiệu sản phẩm
 Website dịch vụ
-Portfolio doanh nghiệp nhỏ và cá nhân.
-  -Liên kết github page: https://angquy144-ai.github.io/MyWeb-readme.html/mywebb/index
+Portfolio doanh nghiệp nhỏ và cá nhân. 
+9.Liên kết github page: https://angquy144-ai.github.io/MyWeb-readme.html/mywebb/index
+
+10.MyWebsite/
+│
+├── index.html
+│
+├── list.html
+│
+├── detail.html
+│
+├── contact.html
+│
+├── style.css
+│
+├── script.js
+│
+└── images/
+    │
+    ├── banner.jpg
+    ├── laptop.jpg
+    ├── phone.jpg
+    ├── watch.jpg
+    └── support.jpg
 ✨ Cảm ơn bạn đã ghé thăm project của mình!
