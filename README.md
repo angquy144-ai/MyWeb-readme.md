@@ -227,6 +227,5 @@ Website công nghệ
 Website giới thiệu sản phẩm
 Website dịch vụ
 Portfolio doanh nghiệp nhỏ và cá nhân.
-  -Liên kết github page:  https://angquy144-ai.github.io/MyWeb-readme.html/
-  
+  -Liên kết github page: https://angquy144-ai.github.io/MyWeb-readme.html/mywebb/index
 ✨ Cảm ơn bạn đã ghé thăm project của mình!
